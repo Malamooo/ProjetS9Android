@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet S9</string>
+    <string name="commander">ORDER ON THE INTERNET</string>
+    <string name="scanner">SCAN DEVICES</string>
+    <string name="lancerScan">START THE SCAN</string>
+    <string name="deconnexion">LOGGING OUT </string>
+    <string name="toggle_led">TOGGLE LED</string>
+    <string name="scan_ended">The scan is finished</string>
+    <string name="not_compatible">"BLE is not compatible"</string>
+    <string name="connexion">Connected to XXXXXX</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="uuid_not_found">UUID not found</string>
+    <string name="not_connected">Not connected</string>
+    <string name="scan">Scan</string>
+</resources>

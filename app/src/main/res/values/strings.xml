@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projet S9</string>
+    <string name="commander">COMMANDER VIA INTERNET</string>
+    <string name="scanner">SCANNER LES PÉRIPHÉRIQUES</string>
+    <string name="lancerScan">LANCER LE SCAN</string>
+    <string name="deconnexion">DÉCONNEXION </string>
+    <string name="toggle_led">TOGGLE LED</string>
+    <string name="connexion">Connecté à XXXXXX</string>
+    <string name="scan_ended">Le scan est terminé</string>
+    <string name="not_compatible">"Le BLE n'est pas compatible"</string>
+    <string name="connected_to">Connecté à %s</string>
+    <string name="uuid_not_found">UUID non trouvé</string>
+    <string name="not_connected">Non connecté</string>
+    <string name="scan">Scan</string>
+</resources>
